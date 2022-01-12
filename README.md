@@ -1,4 +1,6 @@
 # JPASHOP
+> [정리 바로가기](https://near-apparatus-275.notion.site/JPA-1-4f6376b167914c5aa49d44e873dbb3bc)
+
 ## Description
 스프링 부트와 JPA를 사용해서 개발한 쇼핑몰 웹 애플리케이션 설계하고 개발하기
 
