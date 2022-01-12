@@ -18,7 +18,7 @@ Spring Data JPA를 좀 더 깊이 이해하고 사용할 수 있도록 JPA에 �
 java, SpringBoot, JPA, H2, Thymeleaf
 
 ## Overview
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F917648ec-d739-4817-963c-4bf4eafce4d1%2FUntitled.png?table=block&id=4d77ac45-5ba7-491c-aa37-548917072782&spaceId=f034e1fe-a8bf-404e-9dd8-7d2ec0a2f3a9&width=1910&userId=3df801ed-a0e9-4f4e-9367-b72fdd17d55d&cache=v2" width="450px" height="300px">
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F917648ec-d739-4817-963c-4bf4eafce4d1%2FUntitled.png?table=block&id=4d77ac45-5ba7-491c-aa37-548917072782&spaceId=f034e1fe-a8bf-404e-9dd8-7d2ec0a2f3a9&width=1910&userId=3df801ed-a0e9-4f4e-9367-b72fdd17d55d&cache=v2" width="450px" height="400px">
 
 ## 추후 업데이트 필요
 * set 제거
