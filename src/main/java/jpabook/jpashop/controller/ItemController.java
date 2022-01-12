@@ -40,7 +40,7 @@ public class ItemController {
 
     @GetMapping("/items")
     public String list(Model model) {
-        List<Item> items = itemService.findItem();
+        List<Item> items = itemService.findItems();
         model.addAttribute("items", items);
         return "items/itemList";
     }
@@ -75,6 +75,6 @@ public class ItemController {
 
         itemService.updateItem(itemId, form.getName(), form.getPrice(), form.getStockQuantity());
 
-        return "redirect:items";
+        return "redirect:/items";
     }
 }

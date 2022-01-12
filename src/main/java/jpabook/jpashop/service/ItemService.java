@@ -1,6 +1,5 @@
 package jpabook.jpashop.service;
 
-import jpabook.jpashop.domain.item.Book;
 import jpabook.jpashop.domain.item.Item;
 import jpabook.jpashop.repository.ItemRepository;
 import lombok.RequiredArgsConstructor;
@@ -29,7 +28,7 @@ public class ItemService {
         findItem.setStockQuantity(stockQuantity);
     }
 
-    public List<Item> findItem() {
+    public List<Item> findItems() {
         return itemRepository.findAll();
     }
 
