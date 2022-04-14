@@ -18,7 +18,26 @@ Spring Data JPA를 좀 더 깊이 이해하고 사용할 수 있도록 JPA에 �
 java, SpringBoot, JPA, H2, Thymeleaf
 
 ## Overview
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F917648ec-d739-4817-963c-4bf4eafce4d1%2FUntitled.png?table=block&id=4d77ac45-5ba7-491c-aa37-548917072782&spaceId=f034e1fe-a8bf-404e-9dd8-7d2ec0a2f3a9&width=1910&userId=3df801ed-a0e9-4f4e-9367-b72fdd17d55d&cache=v2" width="450px" height="400px">
+* ##### 홈
+  * 메인 화면
+    ![image](https://user-images.githubusercontent.com/77683221/163298636-2b550d9a-9ff9-42b6-b462-5301b61b9521.png)
+* ##### 회원 기능
+  * 회원 가입
+    ![image](https://user-images.githubusercontent.com/77683221/163298354-38b86683-e602-423b-ac7c-3d9be935bc5e.png)
+  * 회원 목록 조회
+    ![image](https://user-images.githubusercontent.com/77683221/163298467-3bcf3231-ea78-438e-9e17-a9fccc227d33.png)
+* ##### 상품 기능
+  * 상품 등록
+    ![image](https://user-images.githubusercontent.com/77683221/163298796-03daf54e-52fa-4af7-ae63-5ea7c89d21e8.png)
+  * 상품 조회
+    ![image](https://user-images.githubusercontent.com/77683221/163298885-d134e9b8-e348-46e3-8631-1b75533c48d6.png)
+* ##### 주문 기능
+  * 주문 등록
+    ![image](https://user-images.githubusercontent.com/77683221/163298961-b41ef2cb-0839-4a9b-aec1-e432eb0d979f.png)
+    ![image](https://user-images.githubusercontent.com/77683221/163299012-98d5cd47-1786-4c19-a567-3381be021474.png)
+  * 주문 조회
+    ![image](https://user-images.githubusercontent.com/77683221/163299101-f5dd882b-8edd-416e-95a6-edf529fab17b.png)
+
 
 ## 추후 업데이트 필요
 * set 제거
